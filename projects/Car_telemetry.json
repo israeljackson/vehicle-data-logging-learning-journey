@@ -1,0 +1,51 @@
+{
+    "Speed": 21,
+    "Fuel": 34.2,
+    "RPM": 3080,
+    "Temperature": 90.62
+}{
+    "Speed": 118,
+    "Fuel": 2.7,
+    "RPM": 1686,
+    "Temperature": 128.36
+}{
+    "Speed": 114,
+    "Fuel": 56.9,
+    "RPM": 2215,
+    "Temperature": 110.2
+}{
+    "Speed": 60,
+    "Fuel": 56.4,
+    "RPM": 4179,
+    "Temperature": 126.38
+}{
+    "Speed": 49,
+    "Fuel": 31.7,
+    "RPM": 3705,
+    "Temperature": 112.71
+}{
+    "Speed": 36,
+    "Fuel": 28.2,
+    "RPM": 3303,
+    "Temperature": 115.51
+}{
+    "Speed": 28,
+    "Fuel": 51.9,
+    "RPM": 4001,
+    "Temperature": 141.18
+}{
+    "Speed": 22,
+    "Fuel": 37.9,
+    "RPM": 1676,
+    "Temperature": 40.12
+}{
+    "Speed": 64,
+    "Fuel": 7.1,
+    "RPM": 4322,
+    "Temperature": 64.39
+}{
+    "Speed": 87,
+    "Fuel": 30.6,
+    "RPM": 3544,
+    "Temperature": 58.35
+}
