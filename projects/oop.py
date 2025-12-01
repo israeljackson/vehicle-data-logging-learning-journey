@@ -1,9 +1,8 @@
-class car:
+class Car:
     def __init__(self, brand, fuel=100, speed=0):
         self.brand = brand
         self.fuel = fuel
         self.speed = speed
-        pass
 
     def accelerate(self, amount):
         """
@@ -31,13 +30,13 @@ class car:
         self.fuel += amount
         print(f"The {self.brand} refuels to {self.fuel} litres.")
 
-car1 = car ("Mercedes", 100, 0)
-car2 = car ("Lamborghini", 100, 0)
+car1 = Car ("Mercedes", 100, 0)
+car2 = Car ("Lamborghini", 100, 0)
 
-car1.accelerate(20, 5.4)
+car1.accelerate(20)
 car1.brake()
 car1.refuel(10)
 
-car2.accelerate(30, 11.32)
+car2.accelerate(30)
 car2.brake()
 car2.refuel(11.654)

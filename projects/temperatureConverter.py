@@ -68,7 +68,7 @@ def temp_convert(value, from_unit=None, to_unit=None):
     elif from_temp == 'k' and to_temp == 'f':
         return k_to_f(value)
     else:
-        raise ValueError("Invalid unit entered. Units must be 'C', 'F', or 'k'")
+        raise ValueError("Invalid unit entered. Units must be 'C', 'F', or 'K'")
 
 result = temp_convert(273.15, from_unit='k', to_unit='c')
 print(f"273.15 k is {result}c")
