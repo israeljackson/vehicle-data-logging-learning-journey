@@ -10,4 +10,5 @@ def log_data():
             writer.writerow([data["speed"], data["fuel"], data["rpm"]])
 
 if __name__ == "__main__":
-    print("Loggging data to csv...")
+    print("loggging data to csv...")
+    log_data()

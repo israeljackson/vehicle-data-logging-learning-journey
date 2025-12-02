@@ -35,4 +35,4 @@ Each file represents a stage of my progress as I learn:
   
   How to build toward a full telemetry pipeline
   
-  This repository will continue to grow as I complete more lessons and move toward the full Vehicle Telemetry System (simulator → logger → viewer → SQLite database).
+This repository will continue to grow as I complete more lessons and move toward the full Vehicle Telemetry System (simulator → logger → viewer → SQLite database).
